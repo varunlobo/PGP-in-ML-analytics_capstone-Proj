@@ -34,5 +34,8 @@ I used the following to build our prediction model
 
 For evaluation of 'goodness-of-fit' we used R^2 as the deciding factor. However, we did calculate the Root mean sq error (RMSE) and Mean abs error (MAE) for comparison.
 
+Looks like Random Forest algorithm provided the best R2 value.
+
+![R2 comparison](https://user-images.githubusercontent.com/114509328/199500784-75e215f4-2e23-4d7c-ac1f-5beb1002e580.jpg)
 
 
