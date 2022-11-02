@@ -3,7 +3,7 @@
 Final capstone project marking the completion of the Post Graduate Program in ML and Data Analytics
 
 The task at hand was to apply various algorithms in scikit-learn a build a model to predict the housing price in boston. The data was downloaded from Kaggle. 
-The features used were 
+ 
 Features used for predicting the value of a home in a particular locality are as follows:
 
 ZN           → proportion of residential land (for lots over 25000 sq. ft.) 
